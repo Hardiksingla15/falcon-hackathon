@@ -19,6 +19,7 @@ Uses your fine-tuned model (best.pt)
 
 📁 Project Structure
 falcon-hackathon/
+
 │── best.pt
 │── ui/app.py
 │── requirements.txt
